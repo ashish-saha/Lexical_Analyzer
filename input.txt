@@ -1,0 +1,5 @@
+A, B, C, X, Y, Z, Person, Course, List, Tree
+  constants, a, b, c, x, y, z, mary, joann, steve, cs316, prolog, lisp, queensCollege
+
+  structured terms f(a, X, z), g(f(a, X, z), Person), lisp(Course, cs316, h(x, y)), pair(First, Second), 
+  rational(10, 3), complex(3.45, 21.5E-2)
